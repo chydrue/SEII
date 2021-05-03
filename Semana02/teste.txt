@@ -1,7 +1,0 @@
-1)arquivo de teste
-2)com multiplas linhas
-3)terceira linha
-4)quarta linha
-5)quinta linha
-6)sexta linha
-7)tá bão
